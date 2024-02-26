@@ -5,7 +5,7 @@ public class Main {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.println("Hello and welcome!");
-        System.out.println(8887);
+        System.out.println(8888);
         System.out.println(9999);
         System.out.println("OK");
 
